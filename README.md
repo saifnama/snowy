@@ -1,6 +1,6 @@
-# snowy
+# Snowy
 
-snowy is a simple Python tool that generates an HTML encyclopedia from a wordlist using Wikipedia/MediaWiki API.
+**Snowy** is a simple Python tool that generates an HTML encyclopedia from a wordlist using Wikipedia/MediaWiki API.
 
 
 <br>
@@ -17,7 +17,7 @@ snowy is a simple Python tool that generates an HTML encyclopedia from a wordlis
 
 ##  Getting Started
 
-Follow these simple steps to set up and run snowy on your computer.
+Follow these simple steps to set up and run `snowy` on your computer.
 
 ### 1. Clone the Repository
 Open your terminal (or Command Prompt) and run:
