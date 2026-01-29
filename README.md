@@ -17,7 +17,7 @@
 
 ##  Getting Started
 
-Follow these simple steps to set up and run `snowy` on your computer.
+Follow these steps to set up and run `snowy` on your machine.
 
 ### 1. Clone the Repository
 Open your terminal (or Command Prompt) and run:
@@ -42,7 +42,7 @@ python snowy.py -i words.txt -o my_encyclopedia.html
 
 ## Performance & Safety
 
-- **Async Fetching**: Snowy uses an asynchronous architecture (powered by `asyncio`) to fetch data for multiple words in parallel. This makes it **3-4x faster**.
+- **Async Fetching**: Snowy uses an asynchronous architecture (built on `asyncio`) to fetch data for multiple words in parallel. This makes it **3-4x faster**.
 - **API Safety**: To respect Wikipedia's servers, Snowy uses a **Concurrency Limit** (max 3 simultaneous connections) and "Smart Retries" (exponential backoff). This ensures high performance without overwhelming the API or risking a block.
 
 ## Features
