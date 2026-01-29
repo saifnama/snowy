@@ -17,7 +17,7 @@ snowy is a simple Python tool that generates an HTML encyclopedia from a wordlis
 
 ##  Getting Started
 
-Follow these simple steps to get Snowy running on your computer.
+Follow these simple steps to set up and run snowy on your computer.
 
 ### 1. Clone the Repository
 Open your terminal (or Command Prompt) and run:
