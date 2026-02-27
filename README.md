@@ -1,6 +1,6 @@
-# Snowy
+# snowy
 
-**Snowy** is a simple Python script that generates an HTML encyclopedia from a wordlist using Wikipedia/MediaWiki API.
+**snowy** is a simple Python script that generates an HTML encyclopedia from a wordlist using Wikipedia/MediaWiki API.
 
 
 <br>

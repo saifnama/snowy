@@ -50,7 +50,8 @@ WIKIPEDIA_API = "https://en.wikipedia.org/w/api.php"
 WIKIDATA_API = "https://www.wikidata.org/w/api.php"
 
 # Proper User-Agent (required by Wikipedia API)
-USER_AGENT = 'Snowy/1.0 (Educational tool; Python script)'
+__version__ = "0.5"
+USER_AGENT = f'Snowy/{__version__} (Educational tool; Python script)'
 
 # Create a session with proper User-Agent
 SESSION = requests.Session()
